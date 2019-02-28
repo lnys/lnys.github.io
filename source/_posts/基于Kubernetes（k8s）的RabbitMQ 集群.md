@@ -116,5 +116,3 @@ Cluster status of node 'rabbit@172.17.0.3' ...
 
 ```
 这里最关键的一点是nodes与running nodes集合均有三个节点。
-
-```
